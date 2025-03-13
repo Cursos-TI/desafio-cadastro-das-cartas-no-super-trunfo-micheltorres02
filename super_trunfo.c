@@ -1,7 +1,9 @@
 #include <stdio.h>
 
     int main() {
-//primeira carta        
+        printf("desafio super trunfo!");
+
+ //primeira carta        
         char estado[30] = "pernambuco";
         char cdg_carta[10] = "a01";
         char cidade[30] = "recife";
@@ -10,7 +12,7 @@
         double pib = 58000000;
         int pontos_turisticos = 50;
 
-//segunda carta
+ //segunda carta
         char estado[25] = "ceara";
         char cdg_carta[10] = "b01";
         char cidade[25] = "fortaleza";
@@ -18,29 +20,10 @@
         double area_da_cidade = 20547805;
         double pib = 56958000;
         int pontos_turisticos = 43
-
-        printf("desafio super trunfo");
-        
+       
 
 
 
 
 
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    }    
+}    
